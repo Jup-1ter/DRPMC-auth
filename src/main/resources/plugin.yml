@@ -1,0 +1,12 @@
+name: Auth
+version: '1.0'
+main: ru.darkrpmc.Auth
+description: Сервер авторизации Minecraft DarkRP
+authors: [Alpha812]
+website: https://github.com/Alpha812/DarkRPMinecraftAuth
+api-version: '1.21.4'
+libraries:
+  - org.jetbrains.exposed:exposed-core:0.57.0
+  - org.jetbrains.exposed:exposed-jdbc:0.57.0
+  - org.jetbrains.exposed:exposed-java-time:0.57.0
+  - org.jetbrains.kotlin:kotlin-stdlib:2.1.0

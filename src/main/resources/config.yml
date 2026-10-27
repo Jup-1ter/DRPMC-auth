@@ -1,0 +1,15 @@
+authorization:
+  authorization-time: 120
+  wrong-password-penalty: 24
+
+messages:
+  register: "<gray>Чтобы зарегистрироваться, используйте команду /reg <пароль>"
+  login: "<gray>Чтобы войти в аккаунт, используйте команду /login <пароль>"
+  time-out: "<red>Время авторизации истекло"
+  out-of-bounds: "Использование читов"
+  wrong-password: "<red>Указан неверный пароль. Время на авторизацию уменьшено"
+
+database:
+  url:
+  user:
+  password:

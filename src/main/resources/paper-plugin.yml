@@ -1,0 +1,8 @@
+name: Auth
+version: '1.0'
+main: ru.darkrpmc.Auth
+api-version: '1.21.4'
+authors: [Alpha812]
+description: Сервер авторизации Minecraft DarkRP
+website: https://github.com/Alpha812/DarkRPMinecraftAuth
+loader: ru.darkrpmc.DRPMCLoader
